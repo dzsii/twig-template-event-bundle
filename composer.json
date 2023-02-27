@@ -48,7 +48,7 @@
         "phpstan/phpstan-strict-rules": "~0.12",
         "maglnet/composer-require-checker": "~2.0",
         "phpunit/phpunit": "~9.0",
-        "symfony/var-dumper": "~5.0",
+        "symfony/var-dumper": "~5.0|~6.0",
         "dg/bypass-finals": "~1.1",
         "icanhazstring/composer-unused": "^0.7.3"
     },
